@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning Challenge!
+- 🔭 I’m currently working as a Data Scientist in Healthcare domain.
 - 🌱 I’m currently learning Deep Learning Networks.
 - 👯 I’m looking to collaborate on Data Science & Analytics, and Testing projects.
 - 🤔 I’m looking to learn more and add value!
